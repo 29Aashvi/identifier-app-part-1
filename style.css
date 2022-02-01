@@ -1,0 +1,30 @@
+.test_img_heading{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: rgb(38, 42, 46);
+}
+.test_img1_div{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: grey;
+    border-radius: 20px;
+}
+body{
+    background-color: rgb(247, 211, 211);
+}
+.googlelens{
+    font-size: 20px;
+    color: rgb(221, 185, 230);
+}
+
+#bottle{
+    border-radius: 20px;
+}
+
+h5{
+    background-color: rgb(255, 255, 255);
+    line-height: 4;
+    border-radius: 20px;
+}
